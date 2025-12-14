@@ -100,13 +100,6 @@ Este projeto demonstra:
 - Adaptação de soluções quando recursos não estão disponíveis
 - Boas práticas de documentação
 
-## 🔮 Melhorias Futuras
-
-- [ ] Integração com API real do ChatGPT/Claude
-- [ ] Análise visual com gráficos
-- [ ] Dashboard interativo
-- [ ] Segmentação avançada de clientes
-- [ ] Sistema de envio de notificações
 
 ## 👨‍💻 Autor
 
